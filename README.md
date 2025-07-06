@@ -1,10 +1,5 @@
 # Dashboard de Tendencias
 
-## Cómo usarlo
-1. Clona este repositorio
-2. Abre el archivo .ipynb en Jupyter Notebook
-3. Ejecuta las celdas para ver el análisis completo
-
 ## Descripción del Proyecto
 
 Este proyecto fue desarrollado como parte del Sprint 12 del bootcamp de análisis de datos de TripleTen. El objetivo fue automatizar la visualización de datos de tendencias a lo largo del tiempo mediante la creación de un dashboard interactivo en Tableau Public. El análisis se centró en identificar patrones temporales y comunicar insights clave de forma clara y visual.
